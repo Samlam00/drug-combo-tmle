@@ -1,0 +1,37 @@
+{
+    "Histology": [
+        "Histology_Signet ring cell carcinoma",
+        "Histology_Mucinous adenocarcinoma",
+        "Histology_Adenocarcinoma",
+        "Histology_Carcinoma NOS",
+        "Histology_Other histology"
+    ],
+    "Primary Tumor Site": [
+        "Primary Tumor Site_Right colon",
+        "Primary Tumor Site_Left colon",
+        "Primary Tumor Site_Rectosigmoid",
+        "Primary Tumor Site_Rectum",
+        "Primary Tumor Site_Colon NOS",
+        "Primary Tumor Site_Overlapping / Other",
+        "Primary Tumor Site_Other primary tumor site"
+    ],
+    "Race": [
+        "Race_White",
+        "Race_Other or Unknown Race",
+        "Race_Black or African American"
+    ],
+    "Tumor Lineage": [
+        "Colorectal Adenocarcinoma",
+        "Neuroendocrine tumors",
+        "Small Intestinal Malignancies",
+        "Cancer of Unknown Primary",
+        "Pancreatic Adenocarcinoma",
+        "Lung Non-small cell lung cancer (NSCLC)",
+        "Gastrointestinal Stromal Tumors (GIST)",
+        "Female Genital Tract Malignancy",
+        "None Of These Apply",
+        "Esophagogastric Junction Carcinoma",
+        "Gastric Adenocarcinoma",
+        "Bladder cancer - non-urothelial"
+    ]
+}
