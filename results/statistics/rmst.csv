@@ -1,0 +1,33 @@
+,t1,rmst1,t2,rmst2,t12,rmst12
+0,bevacizumab,31.21858068,capecitabine,31.8814641,"bevacizumab, capecitabine",29.76749371
+1,"bevacizumab, capecitabine",29.76749371,"fluorouracil, irinotecan, leucovorin",22.47999838,"bevacizumab, capecitabine, fluorouracil, irinotecan, leucovorin",26.94972286
+2,"bevacizumab, capecitabine, irinotecan",28.4445786,"fluorouracil, leucovorin",26.72797237,"bevacizumab, capecitabine, fluorouracil, irinotecan, leucovorin",26.94972286
+3,"bevacizumab, fluorouracil, irinotecan, leucovorin",25.00772475,capecitabine,31.8814641,"bevacizumab, capecitabine, fluorouracil, irinotecan, leucovorin",26.94972286
+4,bevacizumab,31.21858068,"capecitabine, fluorouracil, leucovorin, oxaliplatin",35.42716954,"bevacizumab, capecitabine, fluorouracil, leucovorin, oxaliplatin",34.00060943
+5,"bevacizumab, capecitabine",29.76749371,"fluorouracil, leucovorin, oxaliplatin",28.85498763,"bevacizumab, capecitabine, fluorouracil, leucovorin, oxaliplatin",34.00060943
+6,"bevacizumab, capecitabine, oxaliplatin",21.87763691,"fluorouracil, leucovorin",26.72797237,"bevacizumab, capecitabine, fluorouracil, leucovorin, oxaliplatin",34.00060943
+7,"bevacizumab, fluorouracil, leucovorin",32.73671485,"capecitabine, oxaliplatin",30.67518582,"bevacizumab, capecitabine, fluorouracil, leucovorin, oxaliplatin",34.00060943
+8,"bevacizumab, fluorouracil, leucovorin, oxaliplatin",22.2869645,capecitabine,31.8814641,"bevacizumab, capecitabine, fluorouracil, leucovorin, oxaliplatin",34.00060943
+9,"bevacizumab, capecitabine",29.76749371,irinotecan,20.44153912,"bevacizumab, capecitabine, irinotecan",28.4445786
+10,"bevacizumab, irinotecan",20.20871831,capecitabine,31.8814641,"bevacizumab, capecitabine, irinotecan",28.4445786
+11,bevacizumab,31.21858068,"capecitabine, oxaliplatin",30.67518582,"bevacizumab, capecitabine, oxaliplatin",21.87763691
+12,"bevacizumab, irinotecan",20.20871831,fluorouracil,33.93441953,"bevacizumab, fluorouracil, irinotecan",25.28145267
+13,bevacizumab,31.21858068,"fluorouracil, irinotecan, leucovorin",22.47999838,"bevacizumab, fluorouracil, irinotecan, leucovorin",25.00772475
+14,"bevacizumab, irinotecan",20.20871831,"fluorouracil, leucovorin",26.72797237,"bevacizumab, fluorouracil, irinotecan, leucovorin",25.00772475
+15,"bevacizumab, fluorouracil, leucovorin",32.73671485,irinotecan,20.44153912,"bevacizumab, fluorouracil, irinotecan, leucovorin",25.00772475
+16,bevacizumab,31.21858068,"fluorouracil, irinotecan, leucovorin, oxaliplatin",35.18449688,"bevacizumab, fluorouracil, irinotecan, leucovorin, oxaliplatin",14.19686513
+17,"bevacizumab, irinotecan",20.20871831,"fluorouracil, leucovorin, oxaliplatin",28.85498763,"bevacizumab, fluorouracil, irinotecan, leucovorin, oxaliplatin",14.19686513
+18,"bevacizumab, fluorouracil, leucovorin, oxaliplatin",22.2869645,irinotecan,20.44153912,"bevacizumab, fluorouracil, irinotecan, leucovorin, oxaliplatin",14.19686513
+19,bevacizumab,31.21858068,"fluorouracil, leucovorin",26.72797237,"bevacizumab, fluorouracil, leucovorin",32.73671485
+20,bevacizumab,31.21858068,"fluorouracil, leucovorin, oxaliplatin",28.85498763,"bevacizumab, fluorouracil, leucovorin, oxaliplatin",22.2869645
+21,bevacizumab,31.21858068,irinotecan,20.44153912,"bevacizumab, irinotecan",20.20871831
+22,bevacizumab,31.21858068,tipiracil_trifluridine,10.54246521,"bevacizumab, tipiracil_trifluridine",15.81659831
+23,capecitabine,31.8814641,"fluorouracil, leucovorin, oxaliplatin",28.85498763,"capecitabine, fluorouracil, leucovorin, oxaliplatin",35.42716954
+24,"capecitabine, oxaliplatin",30.67518582,"fluorouracil, leucovorin",26.72797237,"capecitabine, fluorouracil, leucovorin, oxaliplatin",35.42716954
+25,"cetuximab, irinotecan",18.91965493,"fluorouracil, leucovorin",26.72797237,"cetuximab, fluorouracil, irinotecan, leucovorin",22.49105601
+26,"fluorouracil, leucovorin",26.72797237,irinotecan,20.44153912,"fluorouracil, irinotecan, leucovorin",22.47999838
+27,"fluorouracil, leucovorin, oxaliplatin",28.85498763,irinotecan,20.44153912,"fluorouracil, irinotecan, leucovorin, oxaliplatin",35.18449688
+28,"fluorouracil, leucovorin",26.72797237,"irinotecan, panitumumab",27.52498502,"fluorouracil, irinotecan, leucovorin, panitumumab",27.46168441
+29,"fluorouracil, irinotecan, leucovorin",22.47999838,panitumumab,27.17820039,"fluorouracil, irinotecan, leucovorin, panitumumab",27.46168441
+30,"fluorouracil, leucovorin, oxaliplatin",28.85498763,panitumumab,27.17820039,"fluorouracil, leucovorin, oxaliplatin, panitumumab",34.00201232
+31,irinotecan,20.44153912,panitumumab,27.17820039,"irinotecan, panitumumab",27.52498502
