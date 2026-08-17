@@ -1,0 +1,33 @@
+,t1,t1 n,t2,t2 n,t12,t12 n
+0,bevacizumab,55,capecitabine,349,"bevacizumab, capecitabine",135
+1,"bevacizumab, capecitabine",135,"fluorouracil, irinotecan, leucovorin",279,"bevacizumab, capecitabine, fluorouracil, irinotecan, leucovorin",33
+2,"bevacizumab, capecitabine, irinotecan",35,"fluorouracil, leucovorin",65,"bevacizumab, capecitabine, fluorouracil, irinotecan, leucovorin",33
+3,"bevacizumab, fluorouracil, irinotecan, leucovorin",601,capecitabine,349,"bevacizumab, capecitabine, fluorouracil, irinotecan, leucovorin",33
+4,bevacizumab,55,"capecitabine, fluorouracil, leucovorin, oxaliplatin",35,"bevacizumab, capecitabine, fluorouracil, leucovorin, oxaliplatin",45
+5,"bevacizumab, capecitabine",135,"fluorouracil, leucovorin, oxaliplatin",333,"bevacizumab, capecitabine, fluorouracil, leucovorin, oxaliplatin",45
+6,"bevacizumab, capecitabine, oxaliplatin",101,"fluorouracil, leucovorin",65,"bevacizumab, capecitabine, fluorouracil, leucovorin, oxaliplatin",45
+7,"bevacizumab, fluorouracil, leucovorin",125,"capecitabine, oxaliplatin",85,"bevacizumab, capecitabine, fluorouracil, leucovorin, oxaliplatin",45
+8,"bevacizumab, fluorouracil, leucovorin, oxaliplatin",473,capecitabine,349,"bevacizumab, capecitabine, fluorouracil, leucovorin, oxaliplatin",45
+9,"bevacizumab, capecitabine",135,irinotecan,31,"bevacizumab, capecitabine, irinotecan",35
+10,"bevacizumab, irinotecan",43,capecitabine,349,"bevacizumab, capecitabine, irinotecan",35
+11,bevacizumab,55,"capecitabine, oxaliplatin",85,"bevacizumab, capecitabine, oxaliplatin",101
+12,"bevacizumab, irinotecan",43,fluorouracil,46,"bevacizumab, fluorouracil, irinotecan",52
+13,bevacizumab,55,"fluorouracil, irinotecan, leucovorin",279,"bevacizumab, fluorouracil, irinotecan, leucovorin",601
+14,"bevacizumab, irinotecan",43,"fluorouracil, leucovorin",65,"bevacizumab, fluorouracil, irinotecan, leucovorin",601
+15,"bevacizumab, fluorouracil, leucovorin",125,irinotecan,31,"bevacizumab, fluorouracil, irinotecan, leucovorin",601
+16,bevacizumab,55,"fluorouracil, irinotecan, leucovorin, oxaliplatin",31,"bevacizumab, fluorouracil, irinotecan, leucovorin, oxaliplatin",49
+17,"bevacizumab, irinotecan",43,"fluorouracil, leucovorin, oxaliplatin",333,"bevacizumab, fluorouracil, irinotecan, leucovorin, oxaliplatin",49
+18,"bevacizumab, fluorouracil, leucovorin, oxaliplatin",473,irinotecan,31,"bevacizumab, fluorouracil, irinotecan, leucovorin, oxaliplatin",49
+19,bevacizumab,55,"fluorouracil, leucovorin",65,"bevacizumab, fluorouracil, leucovorin",125
+20,bevacizumab,55,"fluorouracil, leucovorin, oxaliplatin",333,"bevacizumab, fluorouracil, leucovorin, oxaliplatin",473
+21,bevacizumab,55,irinotecan,31,"bevacizumab, irinotecan",43
+22,bevacizumab,55,tipiracil_trifluridine,159,"bevacizumab, tipiracil_trifluridine",92
+23,capecitabine,349,"fluorouracil, leucovorin, oxaliplatin",333,"capecitabine, fluorouracil, leucovorin, oxaliplatin",35
+24,"capecitabine, oxaliplatin",85,"fluorouracil, leucovorin",65,"capecitabine, fluorouracil, leucovorin, oxaliplatin",35
+25,"cetuximab, irinotecan",37,"fluorouracil, leucovorin",65,"cetuximab, fluorouracil, irinotecan, leucovorin",44
+26,"fluorouracil, leucovorin",65,irinotecan,31,"fluorouracil, irinotecan, leucovorin",279
+27,"fluorouracil, leucovorin, oxaliplatin",333,irinotecan,31,"fluorouracil, irinotecan, leucovorin, oxaliplatin",31
+28,"fluorouracil, leucovorin",65,"irinotecan, panitumumab",43,"fluorouracil, irinotecan, leucovorin, panitumumab",154
+29,"fluorouracil, irinotecan, leucovorin",279,panitumumab,81,"fluorouracil, irinotecan, leucovorin, panitumumab",154
+30,"fluorouracil, leucovorin, oxaliplatin",333,panitumumab,81,"fluorouracil, leucovorin, oxaliplatin, panitumumab",74
+31,irinotecan,31,panitumumab,81,"irinotecan, panitumumab",43
