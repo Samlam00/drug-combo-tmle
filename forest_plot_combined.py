@@ -116,7 +116,6 @@ def forest_plot(dirname):
 
     return fig
 
-dirname = "no_sequencing"
-forest_plot(dirname).savefig(
-    f"results/{dirname}/statistics/forest_plot_combined.png"
+forest_plot("tmle").savefig(
+    "results/statistics/forest_plot_combined.png"
 )

@@ -3,7 +3,7 @@
 
 import pandas as pd
 import numpy as np
-from super_learning2 import SuperLearnerRegression, SuperLearnerClassifier
+from super_learning import SuperLearnerRegression, SuperLearnerClassifier
 import statsmodels.api as sm
 
 class TMLE:

@@ -101,9 +101,8 @@ def hsa_add_js_cox_test(n=500):
    
     return pd.DataFrame(combo_hazard_ratios)
 
-dirname = "no_sequencing"
-tmle_cox = tmle_cox_test(dirname)
+tmle_cox = tmle_cox_test("tmle")
 js_cox = hsa_add_js_cox_test()
 cox = pd.merge(tmle_cox, js_cox, on="combo")
-cox.to_csv("results/" + dirname + "/statistics/cox_accuracy.csv")
+cox.to_csv("results/statistics/cox_accuracy.csv")
 print(cox)

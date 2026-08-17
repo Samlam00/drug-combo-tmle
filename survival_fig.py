@@ -61,7 +61,7 @@ def survival_fig():
         t2_name = row["t2"]
         filename = row["filename"]
 
-        df_tmle = pd.read_csv(f"results/{dirname}/{filename}")
+        df_tmle = pd.read_csv(f"results/tmle/{filename}")
         df_js = pd.read_csv("results/joint_sampling/" + filename)
         df_obs = crc[crc["Treatment"] == row["t12"]]
 
@@ -87,9 +87,8 @@ def survival_fig():
 
     return fig
 
-dirname = "tmle"
 survival_fig().savefig(
-    f"results/{dirname}/statistics/survival_fig.png",
+    "results/statistics/survival_fig.png",
     dpi=300,
     bbox_inches='tight'
 )

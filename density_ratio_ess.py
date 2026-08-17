@@ -1,6 +1,6 @@
 # exploratory analysis
 import pandas as pd
-from super_learning2 import SuperLearnerClassifier
+from super_learning import SuperLearnerClassifier
 from categorical_encoders import encode
 
 def density_ratio(df_mono, df_combo):
@@ -30,8 +30,8 @@ def ess(w):
     w_mono /= w_mono.mean()
     return w_mono.sum()**2 / (w_mono**2).sum()
 
-# helpers
-no_sequencing = [
+
+confounders = [
     "patient_is_stage_4",
     "Age At Diagnosis",
     "ECOG Score",
@@ -45,7 +45,7 @@ no_sequencing = [
     "Num Prior Lines",
     "Treatment" # added
 ]
-crc = pd.read_csv("data/processed_data/crc.csv")[no_sequencing]
+crc = pd.read_csv("data/processed_data/crc.csv")[confounders]
 
 mono_name = "bevacizumab"
 combo_name = "bevacizumab, fluorouracil, leucovorin"

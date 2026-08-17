@@ -65,9 +65,8 @@ def plot_overall_curve_fit(df):
     axes[2,1].hist(df["add_js msd"], label="Additivity Joint Sampling MSD")
     return fig
 
-dirname = "no_sequencing"
-r2_msd_statistics = compute_r2_msd(dirname)
-r2_msd_statistics.to_csv(f"results/{dirname}/statistics/r2_msd.csv")
+r2_msd_statistics = compute_r2_msd("tmle")
+r2_msd_statistics.to_csv("results/statistics/r2_msd.csv")
 
-plot_overall_curve_fit(r2_msd_statistics).savefig(f"results/{dirname}/statistics/r2_msd.png")
+plot_overall_curve_fit(r2_msd_statistics).savefig("results/statistics/r2_msd.png")
 

@@ -114,7 +114,7 @@ def tmle_predict(predictors, dirname):
         df.to_csv("results/" + dirname + "/" + row["t1"] + " + " + row["t2"] + ".csv")
 
 
-# with open("transport15.json", "r") as f:
-#     predictors = json.load(f)
+with open("confounders.json", "r") as f:
+    predictors = json.load(f)
 
-# tmle_predict(predictors, "tmle")
+tmle_predict(predictors, "tmle")
